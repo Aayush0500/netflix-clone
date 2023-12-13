@@ -103,13 +103,13 @@ nav {
   border: none;
 }
 .btn-btn-btn-red{
-  padding: 15px;
+  padding: 10px;
   font-size: 24px;
 }
 .btn-btn-email{
   padding: 17px 26px;
   font-size: 17px;
-  padding-right: 165px;
+  padding-right: 125px;
 }
 .separation{
   height: 10px;
@@ -128,7 +128,8 @@ width: 100vw;
   font-weight: 400;
   color: solid white;
   font-size: 40px;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
+  margin: 100px;
 }
 .msg1{
 height: calc(100% - 70px);
@@ -162,13 +163,13 @@ text-align: center;
     position: relative;
   }
   .img1 img{
-    width: 555px;
+    width: 375px;
     position: relative;
     z-index: 10;
   }
   .img1 video{
     position: absolute;
-    top: 90px;
+    top: 62px;
     right: 0;
     width: 86%;}
 
@@ -206,17 +207,17 @@ text-wrap: wrap;
   position: relative;
 }
 .img2 img{
-  width: 555px;
+  width: 375px;
   position: relative;
   z-index: 10;
 }
 .img2 video{
   position: absolute;
-  top: 48px;
+  top: 35px;
   right: 0;
   width: 57%;
   /* background: center; */
-  margin-right: 118px;
+  margin-right: 84px;
 }
   .msg3{
     color: white;
